@@ -14,7 +14,7 @@ namespace WebApplication1.Controllers
         }
         public IActionResult Profile()
         {
-            ViewData["Message"] = "Your Profile page.";
+            ViewData["Message"] = "git branch Profile page.";
 
             return View();
         }
