@@ -1,0 +1,9 @@
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\bin\Debug\netcoreapp2.0\ClassFizzbuzz.deps.json
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\bin\Debug\netcoreapp2.0\ClassFizzbuzz.dll
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\bin\Debug\netcoreapp2.0\ClassFizzbuzz.pdb
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\obj\Debug\netcoreapp2.0\ClassFizzbuzz.csproj.CoreCompileInputs.cache
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\obj\Debug\netcoreapp2.0\ClassFizzbuzz.AssemblyInfoInputs.cache
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\obj\Debug\netcoreapp2.0\ClassFizzbuzz.AssemblyInfo.cs
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\obj\Debug\netcoreapp2.0\ClassFizzbuzz.dll
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\obj\Debug\netcoreapp2.0\ClassFizzbuzz.pdb
+D:\บริษัทmyCos\Lab\ConsoleApp1\ClassFizzbuzz\obj\Debug\netcoreapp2.0\ClassFizzbuzz.csprojResolveAssemblyReference.cache
